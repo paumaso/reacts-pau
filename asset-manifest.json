@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/paumaso/react-pau.git/static/css/main.f855e6bc.css",
-    "main.js": "/paumaso/react-pau.git/static/js/main.60a66f6c.js",
-    "static/js/453.dc14f085.chunk.js": "/paumaso/react-pau.git/static/js/453.dc14f085.chunk.js",
-    "static/media/logo.svg": "/paumaso/react-pau.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/paumaso/react-pau.git/index.html",
-    "main.f855e6bc.css.map": "/paumaso/react-pau.git/static/css/main.f855e6bc.css.map",
-    "main.60a66f6c.js.map": "/paumaso/react-pau.git/static/js/main.60a66f6c.js.map",
-    "453.dc14f085.chunk.js.map": "/paumaso/react-pau.git/static/js/453.dc14f085.chunk.js.map"
+    "main.css": "/reacts-pau/static/css/main.f855e6bc.css",
+    "main.js": "/reacts-pau/static/js/main.b55f4db9.js",
+    "static/js/453.dc14f085.chunk.js": "/reacts-pau/static/js/453.dc14f085.chunk.js",
+    "static/media/logo.svg": "/reacts-pau/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacts-pau/index.html",
+    "main.f855e6bc.css.map": "/reacts-pau/static/css/main.f855e6bc.css.map",
+    "main.b55f4db9.js.map": "/reacts-pau/static/js/main.b55f4db9.js.map",
+    "453.dc14f085.chunk.js.map": "/reacts-pau/static/js/453.dc14f085.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.60a66f6c.js"
+    "static/js/main.b55f4db9.js"
   ]
 }
